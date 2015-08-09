@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spotifyStreamer" type="id">spotifyStreamer</item>
+    <item name="scoresApp" type="id">scoresApp</item>
+    <item name="libraryApp" type="id">libraryApp</item>
+    <item name="buildItBigger" type="id">buildItBigger</item>
+    <item name="xyzReader" type="id">xyzReader</item>
+    <item name="capstoneMyOwnApp" type="id">capstoneMyOwnApp</item>
+  </resources>

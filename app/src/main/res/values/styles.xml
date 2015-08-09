@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="PortifolioButtonStyle" >
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginBottom">@dimen/portifolio_widget_margin</item>
+        <item name="android:background">@drawable/portifolio_button_background</item>
+        <item name="android:textColor">@drawable/portfolio_button_text_color</item>
+    </style>
+
+
+</resources>

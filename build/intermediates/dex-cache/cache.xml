@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sunitakandula/udacity/portfolio-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/sunitakandula/udacity/portfolio-app/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-88911f132a9144c164dd62859cea35728717a97b.jar" />
+    </item>
+    <item
+        jar="/Users/sunitakandula/udacity/portfolio-app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/sunitakandula/udacity/portfolio-app/app/build/intermediates/pre-dexed/debug/classes-e0478ea3a5190250bb8a87d5a9d55b600296cc41.jar" />
+    </item>
+    <item
+        jar="/Users/sunitakandula/mybbrepos/udacity/ExcerciseOne/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/sunitakandula/mybbrepos/udacity/ExcerciseOne/app/build/intermediates/pre-dexed/debug/classes-c7fc9c0a66d9b052c22946550c242904cdacfd8e.jar" />
+    </item>
+    <item
+        jar="/Users/sunitakandula/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/sunitakandula/mybbrepos/udacity/ExcerciseOne/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-ab45542b7ba9ad7c8419127055b33564496ff54d.jar" />
+    </item>
+    <item
+        jar="/Users/sunitakandula/udacity/portfolio-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/sunitakandula/udacity/portfolio-app/app/build/intermediates/pre-dexed/debug/classes-baec62811a1289100afa989b5bad88a831cf7c84.jar" />
+    </item>
+    <item
+        jar="/Users/sunitakandula/mybbrepos/udacity/ExcerciseOne/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/sunitakandula/mybbrepos/udacity/ExcerciseOne/app/build/intermediates/pre-dexed/debug/classes-0943675c684523139513a29abf3539d27ce255e6.jar" />
+    </item>
+    <item
+        jar="/Users/sunitakandula/mybbrepos/udacity/ExcerciseOne/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/sunitakandula/mybbrepos/udacity/ExcerciseOne/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-3ab011555eee1e2d0cfd19f24e4cd644d4616ea5.jar" />
+    </item>
+
+</items>
